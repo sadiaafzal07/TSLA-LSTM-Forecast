@@ -49,8 +49,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict the 
 - Plotted actual vs predicted prices for evaluation
 
 # Output Visualization
-
-![TSLA Prediction Plot](insert-plot-image-url-if-applicable)
+![image](https://github.com/user-attachments/assets/bcf4208b-5423-4d90-af7a-5a58e551f562)
 
 The line graph shows how closely the model’s predictions follow the actual price trends of Tesla stock.
 
